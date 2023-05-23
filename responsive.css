@@ -1,0 +1,72 @@
+@media (max-width: 1080px) {
+    #menu {
+        width: 90%;
+    }
+
+    #root {
+        width: 90%;
+    }
+
+    #root-2 {
+        width: 90%;
+    }
+}
+
+@media (max-width: 768px) {
+    #menu {
+        width: 100%;
+    }
+}
+
+#root {
+    width: 90%;
+}
+
+#root-2 {
+    width: 90%;
+}
+
+
+@media (max-width: 640px) {
+    #menu {
+        width: 90%;
+    }
+
+    #root {
+        width: 90%;
+        display: grid;
+    }
+
+    #root-2 {
+        width: 90%;
+        display: grid;
+    }
+}
+
+@media (max-width: 896px) {
+    #menu {
+        width: 90%;
+    }
+
+    #root {
+        width: 90%;
+    }
+
+    #root-2 {
+        width: 90%;
+    }
+}
+
+@media (max-width: 667px) {
+    #menu {
+        width: 100%;
+    }
+
+    #root {
+        width: 90%;
+    }
+
+    #root-2 {
+        width: 90%;
+    }
+}
